@@ -211,6 +211,7 @@ Call `GET /parcels/{barcode}` to view full history.
 - Send the code as a PR on this repo or zipped folder
 - Use .NET 8 or later ONLY
 - In-memory data or JSON file (no DB)
+- The code must compile and all dependencies must be via Nuget packages
 - README with:
   - Setup instructions (`dotnet run`, `dotnet test`)
   - Design choices and trade-offs
