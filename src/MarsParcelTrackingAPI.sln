@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsParcelTrackingAPI", "MarsParcelTrackingAPI\MarsParcelTrackingAPI.csproj", "{777DBBB4-5034-4026-80F5-D51A4CB7D1BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsParcelTrackerTests", "MarsParcelTrackerTests\MarsParcelTrackerTests.csproj", "{EAA4F46B-D554-482B-9A54-149491DFE705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777DBBB4-5034-4026-80F5-D51A4CB7D1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777DBBB4-5034-4026-80F5-D51A4CB7D1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777DBBB4-5034-4026-80F5-D51A4CB7D1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777DBBB4-5034-4026-80F5-D51A4CB7D1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA4F46B-D554-482B-9A54-149491DFE705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA4F46B-D554-482B-9A54-149491DFE705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA4F46B-D554-482B-9A54-149491DFE705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA4F46B-D554-482B-9A54-149491DFE705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAEE67F7-5F80-4696-8101-07B82A9B5EA3}
+	EndGlobalSection
+EndGlobal
