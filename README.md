@@ -47,7 +47,7 @@ Document any enhancements in your README.
 `{
   "barcode": "RMARS1234567890123456789M",
   "sender": "Anders Hejlsberg",
-  "recipient": "Elon Musk",
+  "recipient": "John Carter",
   "deliveryService": "Express",
   "contents": "Signed C# language specification and a birthday card"
 }`
