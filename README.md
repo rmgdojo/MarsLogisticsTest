@@ -2,7 +2,7 @@
 
 ## .NET Coding Exercise
 
-You wake up one morning to discover that Elon Musk and a selection of brave souls have successfully colonised Mars! Royal Mail has partnered with SpaceX to deliver parcels to the Martian colony via rockets launching from **Starport Thames Estuary**.
+You wake up one morning to discover that humans have successfully colonised Mars! Royal Mail has partnered with MarsCo to deliver parcels to the Martian colony via rockets launching from **Starport Thames Estuary**.
 
 You're invited to complete the challenge that shows off your **.NET and API skills**.
 
@@ -82,7 +82,7 @@ On creation, a parcel record should:
   "origin": "Starport Thames Estuary",
   "destination": "New London",
   "sender": "Anders Hejlsberg",
-  "recipient": "Elon Musk",
+  "recipient": "John Carter",
   "contents": "Signed C# language specification and a Christmas card"
 }
 `
@@ -146,7 +146,7 @@ On creation, a parcel record should:
   "origin": "Starport Thames Estuary",
   "destination": "New London",
   "sender": "Anders Hejlsberg",
-  "recipient": "Elon Musk",
+  "recipient": "John Carter",
   "contents": "Signed C# language specification and a Christmas card",
   "history": [
     { "status": "Created", "timestamp": "2025-08-20" },
@@ -175,7 +175,7 @@ On creation, a parcel record should:
 {
   "barcode": "RMARS1234567890123456789M",
   "sender": "Anders Hejlsberg",
-  "recipient": "Elon Musk",
+  "recipient": "John Carter",
   "deliveryService": "Express",
   "contents": "Signed C# language specification and a Christmas card"
 }
